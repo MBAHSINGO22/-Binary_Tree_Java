@@ -26,7 +26,6 @@ Binary_Tree_Java/
 ```
 
 ## 🟢 Catatan:
-- Pastikan Anda memiliki Java Development Kit (JDK) yang terinstal.
 - Pohon diinisialisasi secara manual dengan root (10), left child (5), dan right child (15).
 - Program saat ini hanya menampilkan data node tanpa traversal atau operasi tambahan.
 - Tidak ada dependensi eksternal; gunakan pustaka standar Java.
