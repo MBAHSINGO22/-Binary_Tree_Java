@@ -1,4 +1,4 @@
-# 📝 BinaryTreeJava
+# 📝 Binary TreeJava
 
 ## Implementasi Pohon Biner Sederhana di Java
 Proyek pembelajaran Java yang menunjukkan struktur data pohon biner dasar dengan node yang memiliki data dan dua anak (left dan right).
