@@ -25,33 +25,6 @@ Binary_Tree_Java/
 ├── TreeNode.java            # 📊 Kelas node pohon
 ```
 
-## ▶️ Menjalankan Program
-
-1. **Kloning Repositori**:
-   ```bash
-   git clone https://github.com/MBAHSINGO22/Binary_Tree_Java.git
-   cd Binary_Tree_Java
-   ```
-
-2. **Pastikan Java Terinstal**: Periksa versi Java:
-   ```bash
-   java -version
-   ```
-   Jika belum terinstal, unduh dari [java.com](https://www.java.com).
-
-3. **Kompilasi dan Jalankan Kode**:
-   Pastikan struktur paket dipertahankan.
-
-   Kompilasi:
-   ```bash
-   javac -d bin src/PERTEMUAN2/*.java
-   ```
-
-   Jalankan:
-   ```bash
-   java -cp bin PERTEMUAN2.MainTree
-   ```
-
 ## 🟢 Catatan:
 - Pastikan Anda memiliki Java Development Kit (JDK) yang terinstal.
 - Pohon diinisialisasi secara manual dengan root (10), left child (5), dan right child (15).
