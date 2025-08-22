@@ -28,7 +28,6 @@ Binary_Tree_Java/
 ## 🟢 Catatan:
 - Pohon diinisialisasi secara manual dengan root (10), left child (5), dan right child (15).
 - Program saat ini hanya menampilkan data node tanpa traversal atau operasi tambahan.
-- Tidak ada dependensi eksternal; gunakan pustaka standar Java.
 
 ## 📈 Contoh Output
 **MainTree.java**
