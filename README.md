@@ -20,10 +20,9 @@ Proyek ini terdiri dari tiga file Java (**MainTree.java, Tree.java, TreeNode.jav
 ```
 Binary_Tree_Java/
 ├── src/PERTEMUAN2/
-│   ├── MainTree.java            # 🛠️ Kelas utama untuk pengujian
-│   ├── Tree.java                # 🔍 Kelas untuk pohon biner
-│   ├── TreeNode.java            # 📊 Kelas node pohon
-├── README.md                    # 📖 Dokumentasi proyek
+├── MainTree.java            # 🛠️ Kelas utama untuk pengujian
+├── Tree.java                # 🔍 Kelas untuk pohon biner
+├── TreeNode.java            # 📊 Kelas node pohon
 ```
 
 ## ▶️ Menjalankan Program
