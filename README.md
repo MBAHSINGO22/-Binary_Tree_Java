@@ -11,7 +11,7 @@ Proyek Java yang menunjukkan struktur data pohon biner dasar dengan node yang me
 - 🔍 **Tree.java**: Kelas utama untuk mengelola pohon dengan root node yang dapat diakses dan diatur.
 - 🛠️ **MainTree.java**: Kelas utama untuk menguji pohon biner dengan pembuatan root dan dua child node secara manual.
 
-Proyek ini terdiri dari tiga file Java (**MainTree.java, Tree.java, TreeNode.java**) dalam paket **PERTEMUAN2**. Cocok untuk pemula yang ingin mempelajari struktur data pohon biner. 🟢
+Proyek ini terdiri dari tiga file Java (**MainTree.java, Tree.java, TreeNode.java**) dalam paket **PERTEMUAN2**.🟢
 
 ## 🧠 Teknologi
 - Java
