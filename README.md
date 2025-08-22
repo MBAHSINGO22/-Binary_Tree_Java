@@ -39,4 +39,4 @@ Right child data: 15
 
 ## 👨‍💻 Pengembang
 - **MBAHSINGO22**
-- 🔗 GitHub
+- [🔗 GitHub](https://github.com/MBAHSINGO22)
